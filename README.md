@@ -1,3 +1,2 @@
-"# Skindataset" 
-"# Skin" 
-"# Skin" 
+#Dermnet Skin Diseases Dataset
+
